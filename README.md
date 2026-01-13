@@ -8,34 +8,32 @@
 ---
 
 ## 🌐 Connect With Me
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+<a href="www.linkedin.com/in/sumit-adikari-5797b1276">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="sumitadikari2@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=sumits234&label=Profile%20Views&color=1F6FEB&style=for-the-badge" />
 
 </div>
 
 ---
 
 ## 🚀 About Me
-- 🎓 3rd Year Student at **IIT Bombay**
+- 🎓 4th Year Student at **IIT Bombay**
 - 💡 Interested in **AI/ML, LLMs, GNNs, NLP, RAG, Data Science**
-- 🔭 Currently working on **placement-level ML projects + portfolio**
-- ⚡ Building projects in **PyTorch / LangChain / Streamlit / Web Scraping**
+- 🔭 Currently working on **-Currently building myself**
+- ⚡ Building projects
 
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Python, C++, JavaScript, SQL  
+**Languages:** Python, C++, SQL  
 **ML/DL:** PyTorch, Scikit-learn, OpenCV, CNN, RNN, NLP  
 **LLM Tools:** LangChain, RAG, Fine-Tuning (LoRA/QLoRA)  
 **Web:** HTML, CSS, JS, Flask, Streamlit  
 **Data:** Pandas, NumPy, Power BI  
-**Tools:** Git, Linux, Jupyter Notebook  
+**Tools:** Git, Jupyter Notebook  
 
 ---
 
