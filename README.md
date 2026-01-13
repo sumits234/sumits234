@@ -22,7 +22,7 @@
 ## 🚀 About Me
 - 🎓 4th Year Student at **IIT Bombay**
 - 💡 Interested in **AI/ML, LLMs, GNNs, NLP, RAG, Data Science**
-- 🔭 Currently working on **-Currently building myself**
+- 🔭 Currently working on **Currently building myself**
 - ⚡ Building projects
 
 ---
