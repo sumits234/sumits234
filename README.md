@@ -1,16 +1,81 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sumits234/sumits234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Sumit Adikari  
+### B.Tech @ IIT Bombay | ML • AI • Data Science • Web Dev • R&D
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=1F6FEB&center=true&vCenter=true&width=780&lines=Machine+Learning+%7C+Deep+Learning+%7C+LLMs;RAG+%7C+Fine-Tuning+(QLoRA/LoRA)+%7C+GNNs;Web+Scraping+%7C+Data+Science+%7C+Power+BI;Building+Projects+for+Placements+%F0%9F%9A%80" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect With Me
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=sumits234&label=Profile%20Views&color=1F6FEB&style=for-the-badge" />
+
+</div>
+
+---
+
+## 🚀 About Me
+- 🎓 3rd Year Student at **IIT Bombay**
+- 💡 Interested in **AI/ML, LLMs, GNNs, NLP, RAG, Data Science**
+- 🔭 Currently working on **placement-level ML projects + portfolio**
+- ⚡ Building projects in **PyTorch / LangChain / Streamlit / Web Scraping**
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, C++, JavaScript, SQL  
+**ML/DL:** PyTorch, Scikit-learn, OpenCV, CNN, RNN, NLP  
+**LLM Tools:** LangChain, RAG, Fine-Tuning (LoRA/QLoRA)  
+**Web:** HTML, CSS, JS, Flask, Streamlit  
+**Data:** Pandas, NumPy, Power BI  
+**Tools:** Git, Linux, Jupyter Notebook  
+
+---
+
+## 📌 Featured Projects
+- 🎥 **LLM Powered YouTube Knowledge Retrieval System (RAG)**
+- 💹 **Finance Domain Chatbot (Llama 3.1 Fine-tuning, QLoRA)**
+- 🚆 **Station-Wise Railway Delay Prediction using STGCN (GNN)**
+- 🤖 **AI-Agent Web Scraping + Data Analysis Platform**
+- 🩸 **Blood Cell Segmentation & Classification (U-Net + ResNet)**
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=sumits234&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumits234&theme=tokyonight&hide_border=true" height="170"/>
+
+---
+
+## 🔥 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumits234&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+---
+
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=sumits234&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+> ⚠️ This requires GitHub Action setup (steps below)
+
+![snake gif](https://github.com/sumits234/sumits234/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# ⚙️ Setup Snake Animation (Very Easy ✅)
+
+### ✅ Step 1: Create a repo
+Create a repo named exactly:
