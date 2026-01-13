@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Sumit Adikari  
-### B.Tech @ IIT Bombay | ML • AI • Data Science • Web Dev • R&D
+### B.Tech @ IIT Bombay | ML • AI • Data Science • Gen AI • R&D
 
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=1F6FEB&center=true&vCenter=true&width=780&lines=Machine+Learning+%7C+Deep+Learning+%7C+LLMs;RAG+%7C+Fine-Tuning+(QLoRA/LoRA)+%7C+GNNs;Web+Scraping+%7C+Data+Science+%7C+Power+BI;Building+Projects+for+Placements+%F0%9F%9A%80" />
 
@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 - 🎓 4th Year Student at **IIT Bombay**
-- 💡 Interested in **AI/ML, LLMs, GNNs, NLP, RAG, Data Science**
+- 💡 Interested in **AI/ML, LLMs, GNNs, NLP, RAG, Data Science, Gen AI**
 - 🔭 Currently working on  building **myself**
 - ⚡ Building projects
 
