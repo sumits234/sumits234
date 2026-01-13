@@ -8,21 +8,23 @@
 ---
 
 ## 🌐 Connect With Me
-<a href="www.linkedin.com/in/sumit-adikari-5797b1276">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="sumitadikari2@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sumit-adikari-5797b1276" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sumitadikari2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-</div>
 
 ---
 
 ## 🚀 About Me
 - 🎓 4th Year Student at **IIT Bombay**
 - 💡 Interested in **AI/ML, LLMs, GNNs, NLP, RAG, Data Science**
-- 🔭 Currently working on **Currently building myself**
+- 🔭 Currently working on  building **myself**
 - ⚡ Building projects
 
 ---
