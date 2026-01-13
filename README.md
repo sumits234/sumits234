@@ -55,13 +55,15 @@
 
 ---
 
+
 ## 🔥 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumits234&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
 ---
 
+
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=sumits234&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=sumits234&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
