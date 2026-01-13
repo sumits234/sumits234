@@ -46,38 +46,9 @@
 - 🤖 **AI-Agent Web Scraping + Data Analysis Platform**
 - 🩸 **Blood Cell Segmentation & Classification (U-Net + ResNet)**
 
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=sumits234&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
-
-
----
-
-
-## 🔥 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api?username=sumits234&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
-
----
-
-
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=sumits234&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake Animation
-> ⚠️ This requires GitHub Action setup (steps below)
 
 ![snake gif](https://github.com/sumits234/sumits234/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
-# ⚙️ Setup Snake Animation (Very Easy ✅)
-
-### ✅ Step 1: Create a repo
-Create a repo named exactly:
